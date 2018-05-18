@@ -242,6 +242,11 @@ ul {
     text-align: center;
 }
 
+#oh {
+    width: 500px;
+    text-align: center;
+}
+
 #me { width: 600px }
 
 #me b {
