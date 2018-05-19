@@ -208,7 +208,7 @@ ul {
 }
 
 #title h1 {
-    font-size: 190px;
+    font-size: 120px;
 
     -webkit-transform: translateZ(50px);
     -moz-transform:    translateZ(50px);
@@ -221,6 +221,10 @@ ul {
     font-size: 32px;
 }
 
+.poor{
+    text-decoration: line-through;
+    font-size: 36px;
+}
 #welcome {
     width: 600px;
     text-align: center;
